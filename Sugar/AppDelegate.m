@@ -2,7 +2,7 @@
 //  AppDelegate.m
 //  Sugar
 //
-//  Created by Pater Rechards on 3/12/17.
+//  Created by pia on 3/12/17.
 //  Copyright © 2017 pia. All rights reserved.
 //
 
